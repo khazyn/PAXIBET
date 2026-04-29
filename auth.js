@@ -1,0 +1,1 @@
+V3 PRO production-style scaffold with wallet auth, vault contract placeholder, referral/jackpot.
